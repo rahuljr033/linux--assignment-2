@@ -1,0 +1,9 @@
+
+#!/bin/bash
+echo "Enter first string:"
+read s1
+echo "Enter second string:"
+read s2
+
+echo "Concatenated String: $s1$s2"
+

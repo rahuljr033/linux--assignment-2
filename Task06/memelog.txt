@@ -1,0 +1,25 @@
+
+------ Sun Nov 23 16:48:18 UTC 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         219  0.0  0.2 112812 24448 ?        Ssl  10:32   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          42  0.0  0.1  50352 15360 ?        S<s  10:32   0:00 /usr/lib/systemd/systemd-journald
+root         189  0.0  0.1 2052176 13884 ?       Ssl  10:32   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     163  0.0  0.1  21456 12672 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.1  21784 12380 ?        Ss   10:32   0:01 /sbin/init
+ishendra     370  0.0  0.0  20308 11136 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd --user
+root         187  0.0  0.0  17968  8320 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-logind
+systemd+     164  0.0  0.0  91024  7552 ?        Ssl  10:32   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      811  0.0  0.0 308164  7424 ?        Ssl  10:56   0:00 /usr/lib/polkit-1/polkitd --no-debug
+
+------ Sun Nov 23 16:48:23 UTC 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         219  0.0  0.2 112812 24448 ?        Ssl  10:32   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          42  0.0  0.1  50352 15360 ?        S<s  10:32   0:00 /usr/lib/systemd/systemd-journald
+root         189  0.0  0.1 2052176 13884 ?       Ssl  10:32   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     163  0.0  0.1  21456 12672 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.1  21784 12380 ?        Ss   10:32   0:01 /sbin/init
+ishendra     370  0.0  0.0  20308 11136 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd --user
+root         187  0.0  0.0  17968  8320 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-logind
+systemd+     164  0.0  0.0  91024  7552 ?        Ssl  10:32   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      811  0.0  0.0 308164  7424 ?        Ssl  10:56   0:00 /usr/lib/polkit-1/polkitd --no-debug
+
